@@ -5,3 +5,4 @@ tmp
 *.out
 *.pyc
 __pycache__
+.vscode
