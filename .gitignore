@@ -1,6 +1,6 @@
 .DS_Store
-temp
-tmp
+temp.*
+tmp.*
 *.class
 *.out
 *.pyc
