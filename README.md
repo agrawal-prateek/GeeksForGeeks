@@ -1,1 +1,1 @@
-Solutions for geeksforgeeks, leetcode and interviewbit
+Solutions for geeksforgeeks
