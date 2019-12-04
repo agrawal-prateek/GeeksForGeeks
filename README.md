@@ -1,1 +1,1 @@
-Solutions for geeksforgeeks orignally written by me
+This Repository contains coding solutions. All the solutions are orignally written by me and anyone can use it.
